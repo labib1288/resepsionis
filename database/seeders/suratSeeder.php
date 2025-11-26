@@ -27,7 +27,7 @@ class suratSeeder extends Seeder
             [
                 'nomor_surat' => '002/SM/2025',
                 'judul_surat' => 'Pemberitahuan Libur',
-                'instansi_pe ngirim' => 'PT. Garuda IndoNesia',
+                'instansi_pe ngirim' => 'PT. Garuda Indonesia',
                 'penerima_surat' => 'Admin Resepsionis',
                 'tanggal_mengirim' => '2025-11-02',
                 'nama_pengirim' => 'Siti Aminah',
